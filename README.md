@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Furie 
 - 👀 I’m interested by bot 
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on toshiro and sene
 - 📫 How to reach me ...
 
